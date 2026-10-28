@@ -1,6 +1,5 @@
 name: Agent task contract
 description: Define a scoped task for an AI agent
-title: ""
 labels:
   - agent-task
 body:
